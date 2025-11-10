@@ -2,8 +2,8 @@ from __future__ import annotations
 
 from typing import Optional
 
-from PyQt5.QtGui import QColor
-from PyQt5.QtWidgets import (
+from qgis.PyQt.QtGui import QColor
+from qgis.PyQt.QtWidgets import (
     QDockWidget,
     QHBoxLayout,
     QLabel,
