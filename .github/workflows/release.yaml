@@ -19,8 +19,8 @@ jobs:
             -ve '__pycache__/' \
             -ve './tests' \
             -ve './pyproject.toml' \
-            -ve './poetry.toml' \
-            -ve './poetry.lock' | xargs -I src cp --parents src ${{env.PLUGIN_NAME}}
+            -ve './uv.lock' \
+            -ve './imgs/movie.mov' | xargs -I src cp --parents src ${{env.PLUGIN_NAME}}
       - name: Create Archive
         run: |
           zip -r ${{env.PLUGIN_NAME}}.zip ./${{env.PLUGIN_NAME}}
