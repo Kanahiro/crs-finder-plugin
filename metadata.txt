@@ -1,0 +1,17 @@
+[general]
+name=CRSFinder
+qgisMinimumVersion=3.0
+about=QGIS Plugin to find CRS of a layer of which CRS is unknown.
+description=QGIS Plugin to find CRS of a layer of which CRS is unknown.
+version=1.0
+
+#Plugin main icon
+icon=imgs/icon.png
+
+author=Kanahiro Iguchi
+email=kanahiro.iguchi@gmail.com
+homepage=
+tracker=
+repository=
+tags=
+category=
