@@ -1,8 +1,12 @@
 # CRSFinder
 
+QGIS Plugin to find CRS of a layer of which CRS is unknown.
+
 ![](./imgs/icon.png)
 
-- show bounding box of selected layer on a map with selected CRS of layer.
+## Features
+
+- By selecting CRS and applying to a layer with unknown CRS, you can check if the layer fits well to the base map.
 - If correct CRS is found, you can overwrite the layer's CRS with the found one.
 
 ## Usage
