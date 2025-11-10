@@ -1,7 +1,7 @@
 import unittest
 
-from crs_finder_dock import CrsFinderDockWidget
-from crs_finder_plugin import CrsFinderPlugin
+from ..crs_finder_dock import CrsFinderDockWidget
+from ..crs_finder_plugin import CrsFinderPlugin
 
 from .utilities import get_qgis_app
 
