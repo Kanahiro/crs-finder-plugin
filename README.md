@@ -12,3 +12,6 @@
 - Select the layer from the combo box.
 - Select candidate CRS from pull-down menu.
 - If you find appropriate CRS, click "Set Layer CRS" button to overwrite the layer's CRS.
+
+https://github.com/user-attachments/assets/c1dfd855-f411-439e-8773-7ccbf91c176b
+
