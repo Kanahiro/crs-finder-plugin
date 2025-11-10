@@ -5,7 +5,7 @@ qgisMaximumVersion=4.99
 supportsQt6=True
 about=QGIS Plugin to find CRS of a layer of which CRS is unknown.
 description=QGIS Plugin to find CRS of a layer of which CRS is unknown.
-version=1.0
+version=1.0.1
 
 #Plugin main icon
 icon=imgs/icon.png
